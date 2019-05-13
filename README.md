@@ -2,7 +2,7 @@
 
 免费的SS账号、SSR账号，定期更新
 
-更新时间：2019-05-13 20:32 +0800
+更新时间：2019-05-13 20:37 +0800
 
 ## 说明
 
@@ -36,75 +36,87 @@ SSR账号：只能在SSR里面使用。
 |🙂|45|47.52.16.47|12333|43ewrqre|rc4-md5|UN|
 |🙂|77|5.181.5.105|443|nHHpgf|aes-256-cfb|UN|
 |🙂|80|45.67.53.93|369|lncn.org sa6|rc4|UN|
-|🙂|81|3.1.80.143|80|xiao|aes-128-ctr|SG|
-|🙂|109|192.154.197.89|40899|Y3oEquMWO2DL|aes-256-cfb|US|
+|🙂|92|3.0.249.3|80|xiao|aes-128-ctr|SG|
 |🙂|140|172.105.213.201|10456|fafajofdsgc|aes-256-cfb|UN|
-|🙂|141|13.209.97.133|80|xiao|aes-128-ctr|KR|
 |🙂|148|172.104.123.158|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|UN|
-|🙂|153|185.135.82.80|2333|doub.io|aes-128-ctr|RU|
 |🙂|154|172.105.217.127|14541|TPOYVGxKglpi|aes-256-cfb|UN|
 |🙂|155|91.188.223.72|543|http://t.cn/RD0D7sx|rc4-md5|UN|
+|🙂|155|185.135.82.80|2333|doub.io|aes-128-ctr|RU|
 |🙂|156|185.173.92.181|443|sssru.icu|rc4-md5|UN|
-|🙂|169|172.105.217.127|14541|TPOYVGxKglpi|aes-256-cfb|JP|
+|🙂|162|91.188.223.72|8080|http://t.cn/EGJIyrl|rc4-md5|RU|
 |🙂|169|46.17.44.9|369|lncn.org 6a|rc4|UN|
+|🙂|176|172.105.213.201|10456|fafajofdsgc|aes-256-cfb|JP|
 |🙂|182|185.133.193.83|369|lncn.org 6a|rc4|UN|
-|🙂|186|45.79.93.164|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|183|45.79.87.208|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|184|13.209.97.133|80|xiao|aes-128-ctr|KR|
 |🙂|186|67.21.81.240|8388|password|aes-256-cfb|UN|
-|🙂|186|45.79.82.49|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|187|23.95.70.189|59608|supermyssr|chacha20-ietf|UN|
-|🙂|188|185.133.193.85|369|lncn.org 6a|rc4|UN|
+|🙂|188|134.209.48.248|18345|ssx.re-03899670|aes-256-cfb|US|
 |🙂|188|185.243.57.221|543|http://t.cn/RD0D7sx|rc4-md5|UN|
+|🙂|188|185.133.193.85|369|lncn.org 6a|rc4|UN|
 |🙂|188|185.243.57.221|80|t.me/SSRSUB|rc4-md5|UN|
+|🙂|189|192.241.221.124|11488|ss8.pm-82002934|aes-256-cfb|US|
+|🙂|190|45.79.93.164|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|191|45.79.82.49|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|191|185.243.57.221|80|t.me/SSRSUB|rc4-md5|US|
-|🙂|192|45.79.94.57|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|192|45.79.93.178|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|193|103.124.107.7|9052|jt2ekBNc9HuVtm2a|aes-256-cfb|UN|
-|🙂|196|45.79.83.180|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|195|198.199.109.79|16808|ssx.re-80956677|aes-256-cfb|US|
+|🙂|197|45.79.95.58|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|197|45.79.95.18|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
-|🙂|198|45.79.95.58|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
-|🙂|204|45.79.87.208|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|199|45.79.94.57|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|199|103.124.107.7|9052|jt2ekBNc9HuVtm2a|aes-256-cfb|US|
 |🙂|207|139.162.115.215|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|UN|
+|🙂|209|45.79.83.180|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
+|🙂|210|13.209.17.146|80|xiao|aes-128-ctr|KR|
 |🙂|210|45.77.175.103|2019|doub.io|aes-128-ctr|UN|
-|🙂|211|45.79.97.186|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|211|194.124.35.169|369|lncn.org sa6|rc4|UN|
-|🙂|213|91.188.223.72|8080|http://t.cn/EGJIyrl|rc4-md5|RU|
+|🙂|213|45.79.97.186|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|214|141.98.213.163|988|5M57kg11c214qDmK|chacha20|UN|
-|🙂|225|172.105.213.201|10456|fafajofdsgc|aes-256-cfb|JP|
-|🙂|232|141.98.213.163|988|5M57kg11c214qDmK|chacha20|KR|
 |🙂|241|176.126.78.212|443|jfopwejfasohgadf|chacha20-ietf|UN|
 |🙂|241|168.62.163.117|993|2019.03.07|rc4-md5|UN|
+|🙂|241|172.104.123.158|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|JP|
+|🙂|243|168.62.163.117|993|2019.03.07|rc4-md5|US|
+|🙂|244|45.79.96.77|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
 |🙂|244|217.182.242.93|80|hfdeyibcfgh|chacha20-ietf|UN|
-|🙂|252|66.175.223.22|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
+|🙂|253|45.33.69.91|16266|f55.fun-07119529|aes-256-cfb|US|
+|🙂|253|66.175.223.22|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
+|🙂|258|128.199.187.62|10709|ssx.re-52608545|aes-256-cfb|SG|
 |🙂|258|107.172.156.130|80|superssr.net|chacha20-ietf|UN|
-|🙂|259|45.33.48.155|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
-|🙂|259|45.33.32.152|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
-|🙂|259|192.210.190.101|25581|superssrnet|aes-256-cfb|US|
 |🙂|260|159.89.114.104|45235|Iwweruyui|chacha20|UN|
-|🙂|266|104.167.97.164|543|http://t.cn/RD0D7sx|rc4-md5|CA|
+|🙂|261|104.167.97.164|543|http://t.cn/RD0D7sx|rc4-md5|CA|
+|🙂|264|45.33.48.155|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
 |🙂|268|104.167.97.164|80|t.me/SSRSUB|rc4-md5|UN|
-|🙂|268|45.79.96.77|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|US|
-|🙂|273|185.224.249.34|9001|UkXRsXvR6buDMG2Y|aes-256-cfb|RU|
-|🙂|301|213.226.68.94|9030|GeregetR8cvQHzYr|aes-256-cfb|DE|
-|🙂|306|91.219.237.119|9001|getvpn20190501|aes-256-cfb|HU|
+|🙂|269|165.22.254.31|14323|ss8.pm-28789558|aes-256-cfb|SG|
+|🙂|278|213.183.48.10|14712|ss8.pm-19294130|rc4-md5|RU|
+|🙂|278|173.255.230.159|11417|f55.fun-11174605|aes-256-cfb|US|
+|🙂|293|91.219.237.119|9001|getvpn20190501|aes-256-cfb|HU|
 |🙂|315|139.162.37.161|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|UN|
-|🙂|315|139.162.37.161|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|SG|
-|🙂|328|172.104.39.134|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|SG|
-|🙂|342|91.201.65.148|9069|tHKW7Ww2mck9CHQG|aes-256-cfb|IT|
+|🙂|316|185.224.249.34|9001|UkXRsXvR6buDMG2Y|aes-256-cfb|RU|
 |🙂|344|91.201.65.148|9069|tHKW7Ww2mck9CHQG|aes-256-cfb|UN|
-|🙂|347|213.183.59.188|9031|BwcAUZk8hUFAkDGN|aes-256-cfb|NL|
+|🙂|349|213.183.59.188|9031|BwcAUZk8hUFAkDGN|aes-256-cfb|NL|
 |🙂|356|212.60.5.208|369|lncn.org 6a|rc4|UN|
 |🙂|375|134.209.150.54|45235|Iwweruyui|chacha20|UN|
-|🙂|84|3.0.249.3|80|xiao|aes-128-ctr|SG|
-|🙂|149|46.29.162.46|1026|91vpn.cf|rc4-md5|RU|
-|🙂|164|13.209.17.146|80|xiao|aes-128-ctr|KR|
-|🙂|171|172.104.123.158|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|JP|
-|🙂|238|139.162.115.215|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|JP|
-|🙂|239|168.62.163.117|993|2019.03.07|rc4-md5|US|
-|🙁|200|103.124.107.7|9052|jt2ekBNc9HuVtm2a|aes-256-cfb|US|
+|🙂|97|3.1.80.143|80|xiao|aes-128-ctr|SG|
+|🙂|136|192.154.197.89|40899|Y3oEquMWO2DL|aes-256-cfb|US|
+|🙂|154|46.29.162.46|1026|91vpn.cf|rc4-md5|RU|
+|🙂|217|141.98.213.163|988|5M57kg11c214qDmK|chacha20|KR|
+|🙂|233|139.162.1.34|14615|f55.fun-18650193|aes-256-cfb|SG|
+|🙂|255|192.210.190.101|25581|superssrnet|aes-256-cfb|US|
+|🙂|262|45.33.32.152|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|US|
+|🙂|267|172.104.188.241|12871|f55.fun-20232227|aes-256-cfb|SG|
+|🙂|270|139.162.115.215|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|JP|
+|🙂|303|213.226.68.94|9030|GeregetR8cvQHzYr|aes-256-cfb|DE|
+|🙂|315|45.33.80.198|16062|f55.fun-70086909|aes-256-cfb|US|
+|🙂|334|139.162.37.161|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|SG|
+|🙂|350|172.104.39.134|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|SG|
+|🙁|149|172.105.217.127|14541|TPOYVGxKglpi|aes-256-cfb|JP|
+|🙁|207|172.104.171.145|15815|f55.fun-25972254|aes-256-cfb|SG|
+|🙁|347|91.201.65.148|9069|tHKW7Ww2mck9CHQG|aes-256-cfb|IT|
 |🙁|0|23.94.5.222|80|199844|aes-256-cfb|UN|
 |🙁|0|47.91.249.54|12334|erw34r|rc4-md5|UN|
-|🙁|0|stable1.local|443|https://t.me/autossr|aes-256-cfb|UN|
 |🙁|0|47.52.103.137|12378|342eqwrqew|rc4-md5|UN|
+|🙁|0|stable1.local|443|https://t.me/autossr|aes-256-cfb|UN|
 |🙁|0|47.75.197.167|12378|43214er|rc4-md5|UN|
-|🙁|0|173.82.232.48|22731|WeCrBq|rc4-md5|UN|
 |🙁|0|45.76.222.9|1025|YZcCjQ|rc4-md5|JP|
+|🙁|0|173.82.232.48|22731|WeCrBq|rc4-md5|UN|
