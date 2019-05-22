@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/iconfont.css">
 </head>
 <body>
-    <!-- 2be7971e196ac7596aebaa87bc5d0ba8 -->
+    <!-- f83dedd702eaf005e29c90b0134e3a01 -->
     <div class="c-table c-table--border c-table--striped">
       <table cellspacing="0" cellpadding="0" border="0">
         <colgroup>
@@ -1586,10 +1586,10 @@
             qrcode.children('br').remove();
             qrcode.children('a').remove();
             qrcode.qrcode({background:'#FFFFFF',ecLevel:'M',text:link,width:256,height:256});
-            qrcode.append('<br /><a href="'+link+'">URI</a>');
+            qrcode.append('<br /><a href="'+link+'">链接</a>');
             layer.open({
               type:1,
-              title:" ",
+              title:$(this).parent().parent().parent().find('td:eq(4)>div')[0].innerText,
               closeBtn:0,
               shade:0.1,
               area:'300px',
