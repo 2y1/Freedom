@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/iconfont.css">
 </head>
 <body>
-    <!-- f83dedd702eaf005e29c90b0134e3a01 -->
+    <!-- 7e7c565ff4e6c92ab74852652d78b297 -->
     <div class="c-table c-table--border c-table--striped">
       <table cellspacing="0" cellpadding="0" border="0">
         <colgroup>
@@ -1581,6 +1581,8 @@
           });
           $('.qrcode').click(function() {
             var link = $(this).attr('link');
+            var e = $(this).parent().parent().parent().find('td:eq(4)>div');
+            var title = e.length ? e[0].innerHTML : ' ';
             var qrcode = $('#qrcode');
             qrcode.children('canvas').remove();
             qrcode.children('br').remove();
@@ -1589,7 +1591,7 @@
             qrcode.append('<br /><a href="'+link+'">链接</a>');
             layer.open({
               type:1,
-              title:$(this).parent().parent().parent().find('td:eq(4)>div')[0].innerText,
+              title:title,
               closeBtn:0,
               shade:0.1,
               area:'300px',
