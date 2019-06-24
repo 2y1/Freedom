@@ -1,4 +1,4 @@
-<!-- 74c52910e775b38a3e9b5ba1aede37ea -->
+<!-- 688ced96b3375b039eaa899e3688ce6a -->
 <h1 align="center">
     <img src="docs/broken_wall.jpg">
 </h1>
