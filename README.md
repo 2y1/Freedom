@@ -9,8 +9,6 @@
 
 👉[订阅链接](https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb)👈
 
-**特殊日子关闭订阅，造成不便之处请谅解**🙏🙏🙏
-
 ## Buy Me A Coffee
 
 ![0x9d3295F0E21313F7d51F27a3Aac47Cf98C39b747](docs/eth_qrcode.png "0x9d3295F0E21313F7d51F27a3Aac47Cf98C39b747")
