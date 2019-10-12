@@ -1,4 +1,4 @@
-<!-- 6dc8dc44a54940454e7408bf32c55e80 -->
+<!-- 61d8acf3f8ae86a516bc056e207faa22 -->
 <h1 align="center">
     <img src="docs/broken_wall.jpg">
 </h1>
@@ -11,6 +11,4 @@
 
 ## Buy Me A Coffee
 
-![0x9d3295F0E21313F7d51F27a3Aac47Cf98C39b747](docs/eth_qrcode.png "0x9d3295F0E21313F7d51F27a3Aac47Cf98C39b747")
-
-`0x9d3295F0E21313F7d51F27a3Aac47Cf98C39b747`
+<img src="docs/eth_qrcode.png" width="33.33%"><img src="docs/wxpay_qrcode.png" width="33.33%"><img src="docs/alipay_qrcode.png" width="33.33%">
