@@ -1,4 +1,4 @@
-<!-- 682479bb1a22914fdaceae8894534048 -->
+<!-- 8c9f982dfca59c0f590ac74cfd31be0b -->
 <h1 align="center">
     <img src="docs/broken_wall.jpg">
 </h1>
