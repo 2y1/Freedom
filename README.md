@@ -1,4 +1,4 @@
-<!-- 065d9bbfeb3ecc070ca32769c3e339fb -->
+<!-- cd0de0cbc75d1a30050215f1c20e0db7 -->
 <h1 align="center">
     <img src="docs/broken_wall.jpg">
 </h1>
@@ -20,3 +20,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;5. 公众号回复“订阅转移 旧订阅链接”即可进行订阅转移。<br />
 </p>
 </details>
+
+## 加入群聊
+[Telegram](https://t.me/joinchat/G9BlaBNZkDcQlH-WXgLE0A)
+
+[Roit - Matrix](https://riot.im/app/#/room/#freedomssr:matrix.org)，不用梯子，搜索群聊“#freedomssr:matrix.org”加入
